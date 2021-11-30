@@ -1,0 +1,5 @@
+{
+  "speed": 64,
+  "sprite": "data/projectiles/default/sprite0.png",
+  "damage": 16
+}

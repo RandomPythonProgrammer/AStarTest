@@ -1,0 +1,8 @@
+{
+  "health": 100,
+  "sprite": "data/characters/enemies/tank/sprite0.png",
+  "speed": 16,
+  "id": "default_enemy",
+  "track_range": 640,
+  "acceptable_distance": 128
+}

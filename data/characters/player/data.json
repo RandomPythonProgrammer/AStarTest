@@ -1,0 +1,6 @@
+{
+  "health": 10000000,
+  "sprite": "data/characters/player/sprite0.png",
+  "speed": 4,
+  "id": "player"
+}
